@@ -53,6 +53,8 @@ This dashboard serves a broad audience within the organization, including:
 ![Dashboard Preview](./Dashboard_screenshot.png)
 ![LOGO Preview](./LOGO.png)
 ![Introduction Preview](./Introduction.png)
+![Introduction Preview](./Details.png)
+
 
 
 
