@@ -5,7 +5,7 @@
 ###  Project Title
 **Budget, Sales, and Analytics Dashboard**
 
-### 📝 Description
+###  Description
 This Power BI project delivers a detailed and interactive dashboard that offers insights into core business metrics such as budget allocation, sales performance, and profitability. It provides a user-friendly interface for exploring different dimensions of business data.
 
 ###  Key Analytical Areas
