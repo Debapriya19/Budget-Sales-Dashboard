@@ -50,7 +50,7 @@ This dashboard serves a broad audience within the organization, including:
 
 ## Overall Report & Dashboard Glimpse:
 
-![Dashboard Preview](./Dashbord_screenshot.png)
+![Dashboard Preview](./Dashboard_screenshot.png)
 ![LOGO Preview](./LOGO.png)
 
 
