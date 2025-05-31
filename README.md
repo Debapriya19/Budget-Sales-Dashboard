@@ -15,7 +15,8 @@ This Power BI project delivers a detailed and interactive dashboard that offers 
 - **Profitability Overview**: Highlights profit margins segmented by product category, subcategory, and region to pinpoint both high and low-performing areas.
 - **Customer Metrics**: Presents insights into the customer base using data points such as total customers and average annual income.
 - **Product Performance**: Analyzes product-level sales to identify top-selling items and those with higher tax rates.
-- **Geographic Insights**: Features a map that showcases sales and profits by region, helping identify key markets and potential areas for expansion.
+- Regional Breakdown**: Provides region-wise analysis of sales and profit data, helping to assess performance across various territories.
+
 
 ---
 
